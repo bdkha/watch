@@ -18,7 +18,7 @@
             "magento/magento-composer-installer": true
         }
     },
-    "version": "2.4.3-p1",
+    "version": "2.4.3",
     "require": {
         "boolfly/module-zalopay": "^1.0",
         "magento/composer-dependency-version-audit-plugin": "~0.1",
